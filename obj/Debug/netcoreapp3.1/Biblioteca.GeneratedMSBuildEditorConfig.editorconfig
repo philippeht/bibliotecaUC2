@@ -1,3 +1,7 @@
 is_global = true
 build_property.RootNamespace = Biblioteca
+<<<<<<< HEAD
 build_property.ProjectDir = C:\Users\felip\Downloads\OneDrive\Documentos\bibliotecaUC2\
+=======
+build_property.ProjectDir = C:\Users\felip\Downloads\OneDrive\Documentos\Biblioteca2\
+>>>>>>> 8c67ec3d54f71cf7fa9caaac17005fc472ee88d0
